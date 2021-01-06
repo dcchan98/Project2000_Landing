@@ -1,4 +1,6 @@
 Project2000_Landing
 
-Aim : Familiarise full project process from prototyping , creation to hosting by creating landing page for dad's company
+Aims:
+
+To get familiar with materialise UI library by creating a landing page for my dad's company
 
